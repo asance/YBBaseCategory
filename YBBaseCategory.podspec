@@ -23,7 +23,7 @@ s.author             = { "asance" => "lidongwc@126.com" }
 s.platform     = :ios
 s.ios.deployment_target = "8.0"
 s.source       = { :git => "https://github.com/asance/YBBaseCategory.git", :tag => "v#{s.version}" }
-s.source_files  =  "YBBaseCategory/YBBaseCategoryDemo/YBBaseCategoryDemo/YBBaseCategory/*.{h,m}"
+s.source_files  =  "YBBaseCategoryDemo/YBBaseCategoryDemo/YBBaseCategory/*.{h,m}"
 s.frameworks = "UIKit", "CoreGraphics", "Foundation"
 s.requires_arc = true
 
